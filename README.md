@@ -1,4 +1,4 @@
-# SPD 1.02 - Engineering Careers 2
+# SPD 1.5 - Engineering Careers 2
 
 ## Course Description
 
