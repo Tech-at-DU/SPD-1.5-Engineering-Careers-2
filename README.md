@@ -10,7 +10,7 @@ The material you learn here will continue to prepare you for crushing technical 
 
 ## Prerequisites:  
 
-- [SPD 1.01](https://github.com/Make-School-Courses/SPD-1.01-Engineering-Careers-1)
+- [SPD 1.4](https://github.com/Make-School-Courses/SPD-1.4)
 
 ## Learning Outcomes
 
@@ -32,18 +32,18 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Mon, July 8                      | [Building Trust] |
-|  2 |  Wed, July 10                         | [Framing Behavioral Interviewing] |
-|  3 |  Mon, July 15                     | [Leadership Models & Warm Demander] |
-|  4 |  Wed, July 17                        | [Strategies for Behavioral Interviewing: Situational Awareness] |
-|  5 |  Mon, July 22                     | [Science of Learning & Pair Programming] |
-|  6 |  Wed, July 24                        | [Strategies for Behavioral Interviewing: Attunement] |
-|  7 |  Mon, July 29                     | [Coaching Issues & Interventions] |
-|  8 |  Wed, July 31                        | [Coderpad Interviews & Take Home Projects] |
-| 9 |  Mon, August 5                        | [PMs & Communication] |
-| 10 |  Wed, August 7                           | Behavioral Interview Drilling in Groups of 4 |  
-| 11 |  Mon, August 12                        | Final Exam|
-| 12 |  Wed, August 14                        | [Final White Board Coding] |
+|  1 |  Mon, June 1                      | [PMs & Communication] |
+|  2 |  Wed, June 3                         | [Building Trust] |
+|  3 |  Mon, June 8                     | [Leadership Models & Warm Demander] |
+|  4 |  Wed, June 10                        | [Strategies for Behavioral Interviewing: Situational Awareness] |
+|  5 |  Mon, June 15                     | [Science of Learning & Pair Programming] |
+|  6 |  Wed, June 17                        | [Strategies for Behavioral Interviewing: Attunement] |
+|  7 |  Mon, June 20                     | Lab Day |
+|  8 |  Wed, June 24                        | [Coderpad Interviews & Take Home Projects] |
+| 9 |  Mon, June 29                        | Lab Day |
+| 10 |  Wed, July 1                           | Behavioral Interview Drilling in Groups of 4 |  
+| 11 |  Mon, July 6                        | Final Exam|
+| 12 |  Wed, July 8                        | Final Pitches |
   
 
 [Building Trust]: https://docs.google.com/presentation/d/1yhri9SnNGcBZpaaALLVddFwLIfthsiJ8Uw8HBzcjJa4/edit?usp=sharing
