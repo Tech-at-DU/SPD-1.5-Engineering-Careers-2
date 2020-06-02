@@ -86,7 +86,7 @@ Complete one of the following three:
 Using the Presentation Rubric or the Writing/Blog Post Rubric
 
 ### Final Product (will be assigned soon)
-Build your best product yet!
+Build your best product yet! We'll treat this semester as a simulation of Y Combinator.
 
 Choose one option:
 - Team product up to 4 people
