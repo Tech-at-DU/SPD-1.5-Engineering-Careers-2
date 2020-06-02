@@ -70,7 +70,7 @@ By the end of the course, you will be able to ...
 
 ### Take Home Coding Project
 
-**Due: Fri, August 2nd**
+**Due: Tues June 9th**
 
 A common interview practice is to assign a take home project for the interviee to complete. You're typically given a prompt or spec to follow, and a deliverable date or timeline. Through this assignment, our goal is to give you practice with a take home project with the same conditions you'd find in a real interview scenario.
 
