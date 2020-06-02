@@ -28,22 +28,22 @@ By the end of the course, you will be able to ...
 
 **Course Dates:** Monday, July 8 – Wednesday, August 14, 2019 (6 weeks)
 
-**Class Times:** Monday and Wednesday at 9:30–11:20am (12 class sessions)
+**Class Times:** Tues and Thurs at 9:30–12:15am (12 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Mon, June 1                      | [PMs & Communication] |
-|  2 |  Wed, June 3                         | [Building Trust] |
-|  3 |  Mon, June 8                     | [Leadership Models & Warm Demander] |
-|  4 |  Wed, June 10                        | [Strategies for Behavioral Interviewing: Situational Awareness] |
-|  5 |  Mon, June 15                     | [Science of Learning & Pair Programming] |
-|  6 |  Wed, June 17                        | [Strategies for Behavioral Interviewing: Attunement] |
-|  7 |  Mon, June 20                     | Lab Day |
-|  8 |  Wed, June 24                        | [Coderpad Interviews & Take Home Projects] |
-| 9 |  Mon, June 29                        | Lab Day |
-| 10 |  Wed, July 1                           | Behavioral Interview Drilling in Groups of 4 |  
-| 11 |  Mon, July 6                        | Final Exam|
-| 12 |  Wed, July 8                        | Final Pitches |
+|  1 |  Tues, June 2                      | [PMs & Communication] |
+|  2 |  Thurs, June 4                         | [Building Trust] |
+|  3 |  Tues, June 9                     | [Leadership Models & Warm Demander] |
+|  4 |  Thurs, June 11                        | [Strategies for Behavioral Interviewing: Situational Awareness] |
+|  5 |  Tues, June 16                     | [Science of Learning & Pair Programming] |
+|  6 |  Thurs, June 18                        | [Strategies for Behavioral Interviewing: Attunement] |
+|  7 |  Tues, June 21                     | Lab Day |
+|  8 |  Thurs, June 25                        | [Coderpad Interviews & Take Home Projects] |
+| 9 |  Tues, June 23                        | Lab Day |
+| 10 |  Thurs, July 2                           | Behavioral Interview Drilling in Groups of 4 |  
+| 11 |  Tues, July 7                        | Final Exam|
+| 12 |  Thurs, July 9                        | Final Pitches |
   
 
 [Building Trust]: https://docs.google.com/presentation/d/1yhri9SnNGcBZpaaALLVddFwLIfthsiJ8Uw8HBzcjJa4/edit?usp=sharing
@@ -68,15 +68,7 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
-### Answering Behavioral Interview Questions (OPTIONAL!)
-
-**3 answers due: Wed, July 17**
-
-**5 additional answers due: Wed, July 24**
-
-As you go through the interview process, you will encounter the same (or similar) behavioral interview questions in most interviews you take. It's good to have answers to common questions primed and ready to go so you can have examples and stories to share at hand that highlight your skillset and talents.
-
-**Answer questions from [this list of behavioral interview questions](./Assignments/common-bi-questions.md) and link to your answers in the course tracker**
+### New Product
 
 ### Quiz 1: Leadership Models & Warm Demander
 
@@ -86,23 +78,6 @@ There will be a quiz on Leadership Models & Warm Demander. Expect there to be a 
 
 Quiz link will be distributed on the day of.
 
-### Code Reviews (2 total)
-
-**Due: Wed, July 31st**
-
-Do a code review for two different peers (**two total code reviews**). Ask them for a codebase with substantial code - i.e. intensive project or projects at the harder end of difficulty for the developer.
-
-**Submission**
-
-1. Read through the [code review rubric](https://docs.google.com/document/d/19m8J8I5ZT66m5x1Q87yr6-CDg_jxBNCVd_a4fSq1xiw/edit?usp=sharing) for guidance on how to give feedback 
-1. Open an issue on the GitHub Repo for the code you are reviewing: Click on the `Issues` tab, and then click the `New Issue` button
-1. Provide your feedback in the issue. Include code snippets from their project to specifically highlight what you would change/improve
-1. At the top of the code review, list the [code review rubric row topics](https://docs.google.com/document/d/19m8J8I5ZT66m5x1Q87yr6-CDg_jxBNCVd_a4fSq1xiw/edit?usp=sharing) you address in the code review (i.e. Readability & Formatting, Testing & Error Handling, etc.)
-1. Put the link to your opened issue in the progress tracker
-
-**Evaluation:**
-
-To pass the code review assignments, you as the reviewer must provide feedback on 4/6 row topics as listed in the [code review rubric](https://docs.google.com/document/d/19m8J8I5ZT66m5x1Q87yr6-CDg_jxBNCVd_a4fSq1xiw/edit?usp=sharing)
 
 ### Take Home Coding Project
 
@@ -112,14 +87,16 @@ A common interview practice is to assign a take home project for the interviee t
 
 [Here are the requirements](https://docs.google.com/document/d/1F3LByW-A1pSpviBL4g3u9VMVuoUjxi1dUmOC_Sczg2U/edit) for the take home interview project (July 31st). 
 
-### Pair Programming Sessions (2 total)
 
-**Due: Wed, August 7th**
+### Answering Behavioral Interview Questions (OPTIONAL!)
 
-Do **two Pair Programing sessions with a peer on their project** (you’ll be the navigator, then switch to the driver). Both sessions can be with the same peer, or a different peer per sessoin. 
+**3 answers due: Wed, July 17**
 
-Context: Engineers at Facebook, Twitter, Square and countless other tech companies do pair programming. Your abilities as a future boss, PM, peer, and engineer teammate will be heightened through the skills you practice through this assignment. Your goal is to have your partner leave the session feeling empowered rather than discouraged. Use your knowledge from class (slides [here](https://docs.google.com/presentation/d/1Xs43CIsX56hMN3BBVR88zzaCvMqNT1mpFv_gH6z7_Wc/edit?usp=sharing) and [here](https://docs.google.com/presentation/d/1nZnYIpEcNhNN71E122PnnVF-s3D85Fa9J1XU_7x0yE4/edit?usp=sharing); [pair programming agenda](https://docs.google.com/document/d/19m8J8I5ZT66m5x1Q87yr6-CDg_jxBNCVd_a4fSq1xiw/edit?usp=sharing)) to help a peer level up.  
+**5 additional answers due: Wed, July 24**
 
+As you go through the interview process, you will encounter the same (or similar) behavioral interview questions in most interviews you take. It's good to have answers to common questions primed and ready to go so you can have examples and stories to share at hand that highlight your skillset and talents.
+
+**Answer questions from [this list of behavioral interview questions](./Assignments/common-bi-questions.md) and link to your answers in the course tracker**
 
 **Submission:** 
 
