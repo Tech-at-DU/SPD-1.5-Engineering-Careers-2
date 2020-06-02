@@ -95,23 +95,23 @@ Choose one option:
 **Evaluation:** 
 Using the Portfolio Product Rubric for the respective track
 
-### Quiz 1: Leadership Models & Warm Demander
+### Quiz 1: PMs & Communications
 
-**Quiz will take place on Mon, July 22**
+**Quiz will take place on June 11th**
+
+There will be a quiz on PMs & Communication. Expect there to be a mixture of multiple choice and free response questions.
+
+Quiz link will be distributed on the day of.
+
+
+### Quiz 2: Leadership Models & Warm Demander
+
+**Quiz will take place on June 25th**
 
 There will be a quiz on Leadership Models & Warm Demander. Expect there to be a mixture of multiple choice and free response questions.
 
 Quiz link will be distributed on the day of.
 
-
-
-### Quiz 2: PMs & Communications
-
-**Quiz will take place on Wed, August 14**
-
-There will be a quiz on PMs & Communication. Expect there to be a mixture of multiple choice and free response questions.
-
-Quiz link will be distributed on the day of.
 
 
 ### Answering Behavioral Interview Questions (OPTIONAL!)
