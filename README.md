@@ -32,7 +32,7 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tues, June 2                      | Syllabus & Brainstorm & Team Building & [Coderpad Interviews & Take Home Projects] |
+|  1 |  Tues, June 2                      | Brainstorming & [Coderpad Interviews & Take Home Projects] |
 |  2 |  Thurs, June 4                         | [PMs & Communication] |
 |  3 |  Tues, June 9                     |  [Science of Learning & Pair Programming] |
 |  4 |  Thurs, June 11                        | [Building Trust] |
@@ -68,14 +68,32 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
+### Take Home Coding Project
+
+**Due: Fri, August 2nd**
+
+A common interview practice is to assign a take home project for the interviee to complete. You're typically given a prompt or spec to follow, and a deliverable date or timeline. Through this assignment, our goal is to give you practice with a take home project with the same conditions you'd find in a real interview scenario.
+
+[Here are the requirements](https://docs.google.com/document/d/1F3LByW-A1pSpviBL4g3u9VMVuoUjxi1dUmOC_Sczg2U/edit) for the take home interview project (July 31st). 
+
 ### Final Project (will be assigned later)
-- a
-- b
-- c
+Complete one of the following three:
+- Complete the Y Combinator Application (1000 words min)
+- Complete a pitch deck (10 slides)
+- Complete a blog post explaining your project, motivation, challenges, and how you overcame them.
 
-### Final Product (will be assigned later)
+**Evaluation:**
+Using the Presentation Rubric or the Writing/Blog Post Rubric
 
+### Final Product (will be assigned soon)
+Build your best product yet!
 
+Choose one option:
+- Team product up to 4 people
+- Solo
+
+**Evaluation:** 
+Using the Portfolio Product Rubric for the respective track
 
 ### Quiz 1: Leadership Models & Warm Demander
 
@@ -86,13 +104,14 @@ There will be a quiz on Leadership Models & Warm Demander. Expect there to be a 
 Quiz link will be distributed on the day of.
 
 
-### Take Home Coding Project
 
-**Due: Fri, August 2nd**
+### Quiz 2: PMs & Communications
 
-A common interview practice is to assign a take home project for the interviee to complete. You're typically given a prompt or spec to follow, and a deliverable date or timeline. Through this assignment, our goal is to give you practice with a take home project with the same conditions you'd find in a real interview scenario.
+**Quiz will take place on Wed, August 14**
 
-[Here are the requirements](https://docs.google.com/document/d/1F3LByW-A1pSpviBL4g3u9VMVuoUjxi1dUmOC_Sczg2U/edit) for the take home interview project (July 31st). 
+There will be a quiz on PMs & Communication. Expect there to be a mixture of multiple choice and free response questions.
+
+Quiz link will be distributed on the day of.
 
 
 ### Answering Behavioral Interview Questions (OPTIONAL!)
@@ -118,14 +137,6 @@ To pass the pair programming assignments, you must do the following:
 1. Ensure that your partner logs your two pair programming sessions via the evaluation form: [http://make.sc/pair-programming-form](http://make.sc/pair-programming-form)
 1. You utilize at least 2/3 of the senior skills outlined in the [pair programming agenda](https://docs.google.com/document/d/19FI_MGJ2SEWioMMQSnbXi7ygipV3iUGBpSfypxShtkQ/edit?usp=sharing)
 
-
-### Quiz 2: PMs & Communications
-
-**Quiz will take place on Wed, August 14**
-
-There will be a quiz on PMs & Communication. Expect there to be a mixture of multiple choice and free response questions.
-
-Quiz link will be distributed on the day of.
 
 
 
