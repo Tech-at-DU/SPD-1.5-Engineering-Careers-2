@@ -32,17 +32,17 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tues, June 2                      | [PMs & Communication] |
-|  2 |  Thurs, June 4                         | [Building Trust] |
-|  3 |  Tues, June 9                     | [Leadership Models & Warm Demander] |
-|  4 |  Thurs, June 11                        | [Strategies for Behavioral Interviewing: Situational Awareness] |
-|  5 |  Tues, June 16                     | [Science of Learning & Pair Programming] |
+|  1 |  Tues, June 2                      | Syllabus & Brainstorm & Team Building & [Coderpad Interviews & Take Home Projects] |
+|  2 |  Thurs, June 4                         | [PMs & Communication] |
+|  3 |  Tues, June 9                     |  [Science of Learning & Pair Programming] |
+|  4 |  Thurs, June 11                        | [Building Trust] |
+|  5 |  Tues, June 16                     | [Leadership Models & Warm Demander] |
 |  6 |  Thurs, June 18                        | [Strategies for Behavioral Interviewing: Attunement] |
 |  7 |  Tues, June 21                     | Lab Day |
-|  8 |  Thurs, June 25                        | [Coderpad Interviews & Take Home Projects] |
+|  8 |  Thurs, June 25                        | [Strategies for Behavioral Interviewing: Situational Awareness] |
 | 9 |  Tues, June 23                        | Lab Day |
 | 10 |  Thurs, July 2                           | Behavioral Interview Drilling in Groups of 4 |  
-| 11 |  Tues, July 7                        | Final Exam|
+| 11 |  Tues, July 7                        | Pitch Deck/YCombinator Application/Blog Post|
 | 12 |  Thurs, July 9                        | Final Pitches |
   
 
@@ -68,7 +68,14 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
-### New Product
+### Final Project (will be assigned later)
+- a
+- b
+- c
+
+### Final Product (will be assigned later)
+
+
 
 ### Quiz 1: Leadership Models & Warm Demander
 
@@ -120,23 +127,7 @@ There will be a quiz on PMs & Communication. Expect there to be a mixture of mul
 
 Quiz link will be distributed on the day of.
 
-### Letter to Incoming Juniors
 
-**Due: Wed, August 14th**
-
-Write a letter to incoming juniors on how to succeed at Make School. **Your letter should include at least ⅔ of following components to pass:**
-
-- **Vulnerability** (on your part, to create a sense of psychological safety and relatability) 
-- **Growth Mindset** (so they have a healthy perspective on failure and learning)
-- **Tips for success** (so they utilize all the resources and best practices available to them)
-
-Some SPD 1.02 students will have the option of sending their letter to incoming juniors before they join the class. Your letter will help empower the next generation of Make School students!
-
-**Submission:** 
-
-Place link of the letter into the tracker, ideally a medium post.
-
-- You can keep your post private (if you like) by leaving it in "draft form" - it will be accessible to people whom you share the link but not public!
 
 **Evaluation:**
 
