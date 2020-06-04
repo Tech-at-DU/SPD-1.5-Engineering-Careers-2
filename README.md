@@ -74,7 +74,7 @@ By the end of the course, you will be able to ...
 
 A common interview practice is to assign a take home project for the interviee to complete. You're typically given a prompt or spec to follow, and a deliverable date or timeline. Through this assignment, our goal is to give you practice with a take home project with the same conditions you'd find in a real interview scenario.
 
-[Here are the requirements](https://docs.google.com/document/d/1F3LByW-A1pSpviBL4g3u9VMVuoUjxi1dUmOC_Sczg2U/edit) for the take home interview project (July 31st). 
+[Here are the requirements](https://docs.google.com/document/d/1F3LByW-A1pSpviBL4g3u9VMVuoUjxi1dUmOC_Sczg2U/edit) for the take home interview project. 
 
 ### Final Project (will be assigned later)
 Complete one of the following three:
