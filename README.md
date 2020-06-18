@@ -84,6 +84,18 @@ A common interview practice is to assign a take home project for the interviee t
 
 [Here are the requirements](https://docs.google.com/document/d/1F3LByW-A1pSpviBL4g3u9VMVuoUjxi1dUmOC_Sczg2U/edit) for the take home interview project. 
 
+### MVP due June 25th
+MVP for iOS and Web products:
+- one functional and live feature
+
+MVP for a DS project means:
+- You've got your data set
+- You've cleaned it and have some initial analysis
+- If you are doing a DS-based product (not analysis) then MVP means a proof of concept.
+
+**Evaluation:**
+Link to live functional app or repo with the DS content listed above
+
 ### Final Project (will be assigned later)
 Complete one of the following three:
 - Complete the Y Combinator Application (1000 words min)
