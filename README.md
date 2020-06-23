@@ -84,7 +84,7 @@ A common interview practice is to assign a take home project for the interviee t
 
 [Here are the requirements](https://docs.google.com/document/d/1F3LByW-A1pSpviBL4g3u9VMVuoUjxi1dUmOC_Sczg2U/edit) for the take home interview project. 
 
-### MVP due June 25th
+### MVP due June 23rd
 MVP for iOS and Web products:
 - one functional and live feature
 
