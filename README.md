@@ -86,7 +86,7 @@ A common interview practice is to assign a take home project for the interviee t
 
 ### MVP due June 23rd
 MVP for iOS and Web products:
-- one functional and live feature
+- one functional and live feature (for iOS submit link to TestFlight or screencast of local functioning of app feature)
 
 MVP for a DS project means:
 - You've got your data set
