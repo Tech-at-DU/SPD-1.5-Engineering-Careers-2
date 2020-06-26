@@ -96,11 +96,7 @@ MVP for a DS project means:
 **Evaluation:**
 Link to live functional app or repo with the DS content listed above
 
-### Final Project (will be assigned later)
-Complete one of the following three:
-- Complete the Y Combinator Application (1000 words min)
-- Complete a pitch deck (10 slides)
-- Complete a blog post explaining your project, motivation, challenges, and how you overcame them.
+### [Final Project due July 14th](https://docs.google.com/document/d/1sjVil7LwH_VFKTnJtKSsaMHFgFSpl2yPGwY89kO4Klk/edit)
 
 **Evaluation:**
 Using the Presentation Rubric or the Writing/Blog Post Rubric
