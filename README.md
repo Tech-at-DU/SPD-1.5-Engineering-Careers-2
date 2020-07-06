@@ -98,15 +98,7 @@ Link to live functional app or repo with the DS content listed above
 
 ### [Final Project due July 14th](https://docs.google.com/document/d/1sjVil7LwH_VFKTnJtKSsaMHFgFSpl2yPGwY89kO4Klk/edit)
 
-**Evaluation:**
-Using the Presentation Rubric or the Writing/Blog Post Rubric
-
-### Final Product (will be assigned soon)
 Build your best product yet! We'll treat this semester as a simulation of Y Combinator.
-
-Choose one option:
-- Team product up to 4 people
-- Solo
 
 **Evaluation:** 
 Using the Portfolio Product Rubric for the respective track
