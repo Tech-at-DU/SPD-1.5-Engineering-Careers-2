@@ -82,7 +82,7 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
-### Take Home Coding Project
+### Take Home Coding Project (25% of final grade)
 
 **Due: Tues June 9th**
 
@@ -90,7 +90,7 @@ A common interview practice is to assign a take home project for the interviee t
 
 [Here are the requirements](https://docs.google.com/document/d/1F3LByW-A1pSpviBL4g3u9VMVuoUjxi1dUmOC_Sczg2U/edit) for the take home interview project. 
 
-### MVP due June 23rd
+### MVP due June 23rd (20% of final grade)
 MVP for iOS and Web products:
 - one functional and live feature (for iOS submit link to TestFlight or screencast of local functioning of app feature)
 
@@ -100,16 +100,17 @@ MVP for a DS project means:
 - If you are doing a DS-based product (not analysis) then MVP means a proof of concept.
 
 **Evaluation:**
-Link to live functional app or repo with the DS content listed above
+- All tracks execpt DS: Link to live functional app (100% credit) or repo with substantial code, functions, mostly fleshed out (50% credit)
+- DS Products: each of the three contents listed above represent 1/3 of the product credit
 
-### [Final Project due July 14th](https://docs.google.com/document/d/1sjVil7LwH_VFKTnJtKSsaMHFgFSpl2yPGwY89kO4Klk/edit)
+### [Final Project due July 14th](https://docs.google.com/document/d/1sjVil7LwH_VFKTnJtKSsaMHFgFSpl2yPGwY89kO4Klk/edit) (40% of final grade)
 
 Build your best product yet! We'll treat this semester as a simulation of Y Combinator.
 
 **Evaluation:** 
 Using the Portfolio Product Rubric for the respective track
 
-### Quiz 1: PMs & Communications
+### Quiz 1: PMs & Communications (10% of final grade)
 
 **Quiz will take place on June 11th**
 
@@ -118,7 +119,7 @@ There will be a quiz on PMs & Communication. Expect there to be a mixture of mul
 Quiz link will be distributed on the day of.
 
 
-### Quiz 2: Leadership Models & Warm Demander
+### Quiz 2: Leadership Models & Warm Demander (10% of final grade)
 
 **Quiz will take place on June 25th**
 
@@ -164,10 +165,7 @@ To pass the pair programming assignments, you must do the following:
 ## Evaluation
 To pass this course you must meet the following requirements:
 
-- Complete all required assignments 
-- Pass all projects according to the associated project rubric
-- Pass the final summative assessment according to the rubric as specified in this class
-    - This will be further explained in the [study guide](ADD_STUDY_GUIDE_LNK)
+- Earn 70% of the cumulative points from the assignments above
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
