@@ -82,7 +82,7 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
-### Take Home Coding Project (25% of final grade)
+### Take Home Coding Project (20% of final grade)
 
 **Due: Tues June 9th**
 
