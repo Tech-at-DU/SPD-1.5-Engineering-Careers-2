@@ -38,18 +38,19 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tues, June 2                      | Brainstorming & [Coderpad Interviews & Take Home Projects] |
-|  2 |  Thurs, June 4                         | [PMs & Communication] |
-|  3 |  Tues, June 9                     |  [Science of Learning & Pair Programming] |
-|  4 |  Thurs, June 11                        | [Building Trust] |
-|  5 |  Tues, June 16                     | [Leadership Models & Warm Demander] |
-|  6 |  Thurs, June 18                        | [Strategies for Behavioral Interviewing: Attunement] |
-|  7 |  Tues, June 21                     | Lab Day |
-|  8 |  Thurs, June 25                        | [Strategies for Behavioral Interviewing: Situational Awareness] |
-| 9 |  Tues, June 23                        | Lab Day |
-| 10 |  Thurs, July 2                           | Behavioral Interview Drilling in Groups of 4 |  
-| 11 |  Tues, July 7                        | Pitch Deck/YCombinator Application/Blog Post|
-| 12 |  Thurs, July 9                        | Final Pitches |
+|  1 |  Mon, Mar 29                      | Brainstorming & [Coderpad Interviews & Take Home Projects] |
+|  2 |  Wed, Mar 31                         | **No Class - Ceaser Chavez** |
+|  3 |  Mon, April 5                     |  [Science of Learning & Pair Programming] |
+|  4 |  Wed, April 7                        | [Building Trust] |
+|  5 |  Mon, April 12                     | [Leadership Models & Warm Demander] |
+|  6 |  Wed, April 14                        | [Strategies for Behavioral Interviewing: Attunement] |
+|  7 |  Mon, April 19                     | Lab Day |
+|  8 |  Wed, April 21                        | [Strategies for Behavioral Interviewing: Situational Awareness] |
+| 9 |  Mon, April 26                        | Lab Day |
+| 10 |  Wed, April 28                           | Behavioral Interview Drilling in Groups of 4 |  
+| 11 |  Mon, May 5                        | [PMs & Communication] |
+| 12 |  Wed, May 10                       | Pitch Deck/YCombinator Application/Blog Post |
+| 13 |  Wed, May 12                       | Pitches |
   
 
 [Building Trust]: https://docs.google.com/presentation/d/1yhri9SnNGcBZpaaALLVddFwLIfthsiJ8Uw8HBzcjJa4/edit?usp=sharing
@@ -84,13 +85,13 @@ By the end of the course, you will be able to ...
 
 ### Take Home Coding Project (20% of final grade)
 
-**Due: Tues June 9th**
+**Due: Tues June April 7th**
 
 A common interview practice is to assign a take home project for the interviee to complete. You're typically given a prompt or spec to follow, and a deliverable date or timeline. Through this assignment, our goal is to give you practice with a take home project with the same conditions you'd find in a real interview scenario.
 
 [Here are the requirements](https://docs.google.com/document/d/1F3LByW-A1pSpviBL4g3u9VMVuoUjxi1dUmOC_Sczg2U/edit) for the take home interview project. 
 
-### MVP due June 23rd (20% of final grade)
+### MVP due April 15th (20% of final grade)
 MVP for iOS and Web products:
 - one functional and live feature (for iOS submit link to TestFlight or screencast of local functioning of app feature)
 
@@ -103,23 +104,15 @@ MVP for a DS project means:
 - All tracks execpt DS: Link to live functional app (100% credit) or repo with substantial code, functions, mostly fleshed out (50% credit)
 - DS Products: each of the three contents listed above represent 1/3 of the product credit
 
-### [Final Project due July 14th](https://docs.google.com/document/d/1sjVil7LwH_VFKTnJtKSsaMHFgFSpl2yPGwY89kO4Klk/edit) (40% of final grade)
+### [Final Project due May 12th](https://docs.google.com/document/d/1sjVil7LwH_VFKTnJtKSsaMHFgFSpl2yPGwY89kO4Klk/edit) (40% of final grade)
 
 Build your best product yet! We'll treat this semester as a simulation of Y Combinator.
 
 **Evaluation:** 
 Using the Portfolio Product Rubric for the respective track
 
-### Quiz 1: PMs & Communications (10% of final grade)
 
-**Quiz will take place on June 11th**
-
-There will be a quiz on PMs & Communication. Expect there to be a mixture of multiple choice and free response questions.
-
-Quiz link will be distributed on the day of.
-
-
-### Quiz 2: Leadership Models & Warm Demander (10% of final grade)
+### Quiz 1: Leadership Models & Warm Demander (10% of final grade)
 
 **Quiz will take place on June 25th**
 
@@ -128,12 +121,19 @@ There will be a quiz on Leadership Models & Warm Demander. Expect there to be a 
 Quiz link will be distributed on the day of.
 
 
+### Quiz 2: PMs & Communications (10% of final grade)
+
+**Quiz will take place on April 21st **
+
+There will be a quiz on PMs & Communication. Expect there to be a mixture of multiple choice and free response questions.
+
+Quiz link will be distributed on the day of.
 
 ### Answering Behavioral Interview Questions (OPTIONAL!)
 
-**3 answers due: Wed, July 17**
+**3 answers due: April 14th**
 
-**5 additional answers due: Wed, July 24**
+**5 additional answers due: April 21st**
 
 As you go through the interview process, you will encounter the same (or similar) behavioral interview questions in most interviews you take. It's good to have answers to common questions primed and ready to go so you can have examples and stories to share at hand that highlight your skillset and talents.
 
