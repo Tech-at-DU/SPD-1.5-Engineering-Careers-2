@@ -32,26 +32,26 @@ By the end of the course, you will be able to ...
 
 **NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This schedule compression is to ensure that we cover the same material that we normally would in non-summer terms.
 
-**Course Dates:** Monday, July 8 – Wednesday, August 14, 2019 (6 weeks)
+ **Course Dates:** Monday, May 31 – Wednesday, July 14, 2021 (7 weeks)
 
-**Class Times:** Tues and Thurs at 9:30–12:15am (12 class sessions)
+**Class Times:** Monday, Wednesday at 4:00pm–5:30pm (12 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Mon, Mar 29                      | Brainstorming & [Coderpad Interviews & Take Home Projects] |
-|  2 |  Wed, Mar 31                         | **No Class - Ceaser Chavez** |
-|  3 |  Mon, April 5                     |  [Science of Learning & Pair Programming] |
-|  4 |  Wed, April 7                        | [Building Trust] |
-|  5 |  Mon, April 12                     | [Leadership Models & Warm Demander] |
-|  6 |  Wed, April 14                        | [Strategies for Behavioral Interviewing: Attunement] |
-|  7 |  Mon, April 19                     | Lab Day |
-|  8 |  Wed, April 21                        | [Strategies for Behavioral Interviewing: Situational Awareness] |
-| 9 |  Mon, April 26                        | Lab Day |
-| 10 |  Wed, April 28                           | Behavioral Interview Drilling in Groups of 4 |  
-| 11 |  Mon, May 5                        | [PMs & Communication] |
-| 12 |  Wed, May 10                       | Pitch Deck/YCombinator Application/Blog Post |
-| 13 |  Wed, May 12                       | Pitches |
-  
+|  - |  Mon, May 31         | **No Class - Memorial Day** |
+|  1 |  Wed, June 2         | Brainstorming & [Coderpad Interviews & Take Home Projects] |
+|  2 |  Mon, June 7         |  [Science of Learning & Pair Programming] |
+|  3 |  Wed, June 9         | [Building Trust] |
+|  4 |  Mon, June 14        | [Strategies for Behavioral Interviewing: Attunement] |
+|  5 |  Wed, June 16        | Lab Day |
+|  6 |  Mon, June 21         | [Strategies for Behavioral Interviewing: Situational Awareness] |
+|  7 |  Wed, June 23        | Lab Day |
+|  8 |  Mon, June 28        | Behavioral Interview Drilling in Groups of 4 |  
+|  9 |  Wed, June 30        | [PMs & Communication] 
+| -  |  Mon, July 5         | **No Class - Independence Day Observed** |
+| 10 |  Wed, July 7         | Pitch Deck/YCombinator Application/Blog Post |
+| 11 |  Mon, July 12        | Pitches |
+| 12 |  Wed, July 14        | Final Exam/Presentations |
 
 [Building Trust]: https://docs.google.com/presentation/d/1yhri9SnNGcBZpaaALLVddFwLIfthsiJ8Uw8HBzcjJa4/edit?usp=sharing
 
