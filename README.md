@@ -32,26 +32,26 @@ By the end of the course, you will be able to ...
 
 **NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This schedule compression is to ensure that we cover the same material that we normally would in non-summer terms.
 
- **Course Dates:** Monday, May 31 – Wednesday, July 14, 2021 (7 weeks)
+**Course Dates:** Tuesday, June 1 – Thursday, July 15, 2021 (7 weeks)
 
-**Class Times:** Monday, Wednesday at 4:00pm–5:30pm (12 class sessions)
+**Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, May 31         | **No Class - Memorial Day** |
-|  1 |  Wed, June 2         | Brainstorming & [Coderpad Interviews & Take Home Projects] |
-|  2 |  Mon, June 7         |  [Science of Learning & Pair Programming] |
-|  3 |  Wed, June 9         | [Building Trust] |
-|  4 |  Mon, June 14        | [Strategies for Behavioral Interviewing: Attunement] |
-|  5 |  Wed, June 16        | Lab Day |
-|  6 |  Mon, June 21         | [Strategies for Behavioral Interviewing: Situational Awareness] |
-|  7 |  Wed, June 23        | Lab Day |
-|  8 |  Mon, June 28        | Behavioral Interview Drilling in Groups of 4 |  
-|  9 |  Wed, June 30        | [PMs & Communication] 
-| -  |  Mon, July 5         | **No Class - Independence Day Observed** |
-| 10 |  Wed, July 7         | Pitch Deck/YCombinator Application/Blog Post |
-| 11 |  Mon, July 12        | Pitches |
-| 12 |  Wed, July 14        | Final Exam/Presentations |
+|  1 |  Tue, June 1         | Project Audit & [Technical Interviewing Activity 1](Lessons/Lesson1) |
+|  2 |  Thu, June 3         | Polish & Deploy - Heroku + Alternatives to Heroku |
+|  3 |  Tue, June 8         | [Strategies for Behavioral Interviewing: Situational Awareness] |
+|  4 |  Thu, June 10        | Technical Interviewing Activity 2 |
+|  5 |  Tue, June 15        | Behavioral Interview Drilling in Groups of 4 |  
+|  6 |  Thu, June 17        | Technical Interviewing Activity 3 |
+|  7 |  Tue, June 22        | [PMs & Communication]  |
+|  8 |  Thu, June 24        | Technical Interviewing Activity 4  |
+|  9 |  Tue, June 29        | Pitch Deck/YCombinator Application/Blog Post |
+| 10 |  Thu, July 1         | Technical Interviewing Activity 5  |
+| 11 |  Tue, July 6         | Pitches |
+| 12 |  Thu, July 8         | Technical Interviewing Activity 6  |
+| 13 |  Tue, July 13        | [Lesson 13] |
+| 14 |  Thu, July 15        | Final Exam/Presentations |
 
 [Building Trust]: https://docs.google.com/presentation/d/1yhri9SnNGcBZpaaALLVddFwLIfthsiJ8Uw8HBzcjJa4/edit?usp=sharing
 
