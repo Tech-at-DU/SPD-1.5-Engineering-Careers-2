@@ -1,66 +1,68 @@
-# Lesson Title
+# Introduction to SPD 1.5 and the First Coding Activity
 
 ## Minute-by-Minute [OPTIONAL]
 
-| **Elapsed** | **Time**  | **Activity**              |
-| ----------- | --------- | ------------------------- |
-| 0:00        | 0:05      | Objectives                |
-| 0:05        | 0:15      | Overview                  |
-| 0:20        | 0:45      | In Class Activity I       |
-| 1:05        | 0:10      | BREAK                     |
-| 1:15        | 0:45      | In Class Activity II      |
-| TOTAL       | 2:00      |                           |
+|**Time**  | **Activity**              |
+ --------- | ------------------------- |
+| 5 MIN     | 🔭 Class Overview            |
+| 5 MIN     | 🏆 Learning Objectives    |
+| 20 MIN    | 📚 Portfolio Project Audit   |
+| 30 MIN    | 🔥 Warm-Up: LeetCode Problem   |
+| 10 MIN    | 🗣️ Class Discussion on Solution   |
+| 10 MIN    | 🛏️ BREAK                     |
+| 60 MIN    | 🚜 Coding Activity     |
+| - MIN     | 💪 Q&A + Wrap Up       |
 
-## Why you should know this or industry application (optional) (5 min)
+## 🔭 [05m] Class Overview
+- Review course syllabus and high level understand of SPD 1.5
 
-Explain why students should care to learn the material presented in this class.
+## 🏆 [05m] Learning Objectives
 
-## Learning Objectives (5 min)
+By the end of this class, you should be able to...
 
-1. Identify and describe
-1. Define
-1. Design
-1. Implement
+1. Reflect on a previous portfolio project you created
+1. Solve a sorting string problem
+1. Explain the solution of the string problem to your peers
+1. Implement the solution in a real world application
 
-## Initial Exercise (15 min)
+**Why should we learn this?**
+- engineers should always be reviewing their work, documenting the lessons learned, and their successes!
+- when approaching technical engineering challenges, solving a straightforward theoretical question before an applied question helps by drawing paralles between the two.
+- nothing cements learning better than explaining to your peers--expect to have discussions with your team mates on a regular basis.
 
-- Funny comic
-- Prime the Pump (e.g. think and jot, think pair share, etc)
-- Productivity Tip/Tool
-- Review of current event (e.g. tech news relevant to your track/topic)
-- Quiz on homework or topic(s) of past class
-- Concept Test
+## 📚 [20m] Portfolio Project Audity 
 
-## Overview/TT I (20 min)
+Identify one of your strongest portfolio projects. Then, go to Gradescope and complete the assignment labeled "Portfolio Project Audit". 
 
-- Why learn this?
-- Industry examples of usage
-- Best practices
-- Personal anecdote
+## 🔥 [30m] Warm-Up: LeetCode Problem 
 
-## In Class Activity I (30 min)
+Random pair and share activity. 
 
-- I do, We do, You do
-- Reading & Discussion Questions in small groups
-- Draw a picture/diagram
-- Complete Challenges solo or in pair
-- Q&A about tutorials
-- Pair up and code review
-- Pair program
-- Formative assessment
-- Form into groups
-- etc (get creative :D)
+Work together with your partner to solve the following LeetCode problem: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
-## Overview/TT II (optional) (20 min)
+Hints:
+- The given input array has already been sorted! This means pointers could work well here...
+- "In-place" means you must use the given array and no other data structures--could swapping play a role in this solution?
 
-## In Class Activity II (optional) (30 min)
+## 🗣️ [10m] Class Discussion on Solution
 
-## Wrap Up (5 min)
+Call on pairs to share their work, explain the solution, and how their problem solving process.
 
-- Continue working on your current tutorial
-- Complete reading
-- Complete challenges
+## 🛏️ [10m] Break
 
-## Additional Resources
+## 🚜 [60m] Coding Activity
 
-1. Links to additional readings and videos
+The instructor will walkthrough the code activity's `README` and details [hosted here on Repl.](https://replit.com/team/MSInterviewPrep/sortedUserIDs-PYTHON)
+
+Random groups of 3-to-4 will then be formed to complete the `todo()` functions listed.
+
+Hint:
+- all solutions to the `todo()` functions can leverage the in-place solution from the LeetCode activity completed earlier in class!
+- it may be possible to consolidate `todo()` functions--feel free to do so if that makes things easier for you
+
+
+## 💪 Q&A + Wrap Up 
+
+- Share and review solutions for the coding activity
+- Think about how this activity relates to interview questions, what parallels can we draw?
+- Identify other portfolio projects you'd like to audit and how you can prepare them to score higher
