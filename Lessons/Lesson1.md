@@ -11,6 +11,7 @@
 | 10 MIN    | 🗣️ Class Discussion on Solution   |
 | 10 MIN    | 🛏️ BREAK                     |
 | 60 MIN    | 🚜 Coding Activity     |
+| 5 MIN     | ☮️ Vibe Check         |
 | - MIN     | 💪 Q&A + Wrap Up       |
 
 ## 🔭 [05m] Class Overview
@@ -59,6 +60,11 @@ Random groups of 3-to-4 will then be formed to complete the `todo()` functions l
 Hint:
 - all solutions to the `todo()` functions can leverage the in-place solution from the LeetCode activity completed earlier in class!
 - it may be possible to consolidate `todo()` functions--feel free to do so if that makes things easier for you
+
+## ☮️ [5m] Vibe Check
+
+- Discuss thoughts and feelings about the class structure and what we want to learn in this class.
+- Take a quick Zoom poll
 
 
 ## 💪 Q&A + Wrap Up 
