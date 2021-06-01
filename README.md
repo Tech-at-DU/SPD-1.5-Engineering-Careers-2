@@ -38,7 +38,7 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, June 1         | Project Audit & [Technical Interviewing Activity 1](Lessons/Lesson1) |
+|  1 |  Tue, June 1         | Project Audit & [Technical Interviewing Activity 1](./Lessons/Lesson1) |
 |  2 |  Thu, June 3         | Polish & Deploy - Heroku + Alternatives to Heroku |
 |  3 |  Tue, June 8         | [Strategies for Behavioral Interviewing: Situational Awareness] 
 |  4 |  Thu, June 10        | Technical Interviewing Activity 2 |
