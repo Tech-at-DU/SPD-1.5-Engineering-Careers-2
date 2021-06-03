@@ -13,10 +13,10 @@
 1. [[**15m**] 💻 **Activity**: UX Examples](#%5B%2a%2a15m%2a%2a%5D-%F0%9F%92%BB-%2a%2aactivity%2a%2a%3A-ux-examples)
 1. [[**15m**] 💻 **Discuss**: UX Examples](#%5B%2a%2a15m%2a%2a%5D-%F0%9F%92%BB-%2a%2adiscuss%2a%2a%3A-ux-examples)
 1. [[**10m**] 🌴 **BREAK**](#%5B%2a%2a10m%2a%2a%5D-%F0%9F%8C%B4-%2a%2abreak%2a%2a)
-1. [[**30m**] 💻 **Activity**: Design Checklists (Part 1)](#%5B%2a%2a30m%2a%2a%5D-%F0%9F%92%BB-%2a%2aactivity%2a%2a%3A-design-checklists-%28part-1%29)
-1. [[**10m**] 🌴 **BREAK**](#%5B%2a%2a10m%2a%2a%5D-%F0%9F%8C%B4-%2a%2abreak%2a%2a-1)
-1. [[**30m**] 💻 **Activity**: Design Checklists (Part 2)](#%5B%2a%2a30m%2a%2a%5D-%F0%9F%92%BB-%2a%2aactivity%2a%2a%3A-design-checklists-%28part-2%29)
-1. [[**10m**] 🔄 **Recap**: Today's Takeaways](#%5B%2a%2a10m%2a%2a%5D-%F0%9F%94%84-%2a%2arecap%2a%2a%3A-today%27s-takeaways)
+1. [[**35m**] 💻 **Activity**: Design Checklists (Part 1)](#%5B%2a%2a35m%2a%2a%5D-%F0%9F%92%BB-%2a%2aactivity%2a%2a%3A-design-checklists-%28part-1%29)
+1. [[**05m**] 🌴 **BREAK**](#%5B%2a%2a05m%2a%2a%5D-%F0%9F%8C%B4-%2a%2abreak%2a%2a)
+1. [[**25m**] 💻 **Activity**: Design Checklists (Part 2)](#%5B%2a%2a25m%2a%2a%5D-%F0%9F%92%BB-%2a%2aactivity%2a%2a%3A-design-checklists-%28part-2%29)
+1. [[**10m**] 🔄 **Recap**: What's Next?](#%5B%2a%2a10m%2a%2a%5D-%F0%9F%94%84-%2a%2arecap%2a%2a%3A-what%27s-next%3F)
 
 <!-- > -->
 
