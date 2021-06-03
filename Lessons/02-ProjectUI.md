@@ -28,7 +28,18 @@
 
 ## [**20m**] 💬 **TT**: So, About That UI...
 
-`TODO`
+Last night, I crunched the numbers on the Portfolio Project Audit, and guess what I learned?
+
+Each and every one of us felt like we could
+
+Across all concentrations, we all felt we had room to grow when it came to user experience.
+
+### General Rules of Thumb
+
+<p align="center">
+  <img src="https://public-media.interaction-design.org/images/uploads/9459ef7f74863b4dd91075454818c42c.jpg" alt="Don't Make Me Think" width="100%">
+</p>
+
 
 <!-- > -->
 
@@ -67,3 +78,5 @@ Complete the second half of the worksheet on Gradescope. Don't forget to submit!
 ## 📚 Resources & Credits
 
 - [Checklist Design - A collection of the best design practices.](https://www.checklist.design/)
+- [Don’t Make Me Think – Key Learning Points for UX Design for the Web | Interaction Design Foundation (IxDF)](https://www.interaction-design.org/literature/article/don-t-make-me-think-key-learning-points-for-ux-design-for-the-web)
+
