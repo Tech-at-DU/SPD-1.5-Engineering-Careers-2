@@ -6,9 +6,9 @@ This course focuses on engineering careers, particularly on leadership: coaching
 
 ### Why you should know this
 
-The material you learn here will continue to prepare you for crushing technical interviews, and how to start the path of becoming a leader in your environment. 
+The material you learn here will continue to prepare you for crushing technical interviews, and how to start the path of becoming a leader in your environment.
 
-## Prerequisites:  
+## Prerequisites:
 
 - [SPD 1.4](https://github.com/Make-School-Courses/SPD-1.4)
 
@@ -38,11 +38,11 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, June 1         | Project Audit & [Technical Interviewing Activity 1](/Lessons/01-Intro-and-Audit) |
-|  2 |  Thu, June 3         | Polish & Deploy - Heroku + Alternatives to Heroku |
-|  3 |  Tue, June 8         | [Strategies for Behavioral Interviewing: Situational Awareness] 
+|  1 |  Tue, June 1         | [Course + Interviewing Intro / Project Audit](/Lessons/01-Intro-and-Audit) |
+|  2 |  Thu, June 3         | [Pretty Portfolio Projects, Please](/Lessons/02-ProjectUI.md) |
+|  3 |  Tue, June 8         | [Strategies for Behavioral Interviewing: Situational Awareness] |
 |  4 |  Thu, June 10        | Technical Interviewing Activity 2 |
-|  5 |  Tue, June 15        | Behavioral Interview Drilling in Groups of 4 |  
+|  5 |  Tue, June 15        | Behavioral Interview Drilling in Groups of 4 |
 |  6 |  Thu, June 17        | Technical Interviewing Activity 3 |
 |  7 |  Tue, June 22        | [PMs & Communication]  |
 |  8 |  Thu, June 24        | Technical Interviewing Activity 4  |
@@ -89,7 +89,7 @@ By the end of the course, you will be able to ...
 
 A common interview practice is to assign a take home project for the interviee to complete. You're typically given a prompt or spec to follow, and a deliverable date or timeline. Through this assignment, our goal is to give you practice with a take home project with the same conditions you'd find in a real interview scenario.
 
-[Here are the requirements](https://docs.google.com/document/d/1F3LByW-A1pSpviBL4g3u9VMVuoUjxi1dUmOC_Sczg2U/edit) for the take home interview project. 
+[Here are the requirements](https://docs.google.com/document/d/1F3LByW-A1pSpviBL4g3u9VMVuoUjxi1dUmOC_Sczg2U/edit) for the take home interview project.
 
 ### MVP due April 15th (20% of final grade)
 MVP for iOS and Web products:
@@ -108,7 +108,7 @@ MVP for a DS project means:
 
 Build your best product yet! We'll treat this semester as a simulation of Y Combinator.
 
-**Evaluation:** 
+**Evaluation:**
 Using the Portfolio Product Rubric for the respective track
 
 
@@ -139,7 +139,7 @@ As you go through the interview process, you will encounter the same (or similar
 
 **Answer questions from [this list of behavioral interview questions](./Assignments/common-bi-questions.md) and link to your answers in the course tracker**
 
-**Submission:** 
+**Submission:**
 
 1. Schedule time with a peer to do a pair programming session
 1. Follow [this agenda](https://docs.google.com/document/d/19FI_MGJ2SEWioMMQSnbXi7ygipV3iUGBpSfypxShtkQ/edit?usp=sharing) during your session
