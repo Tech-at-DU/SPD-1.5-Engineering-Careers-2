@@ -40,7 +40,7 @@ By the end of the course, you will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tue, June 1         | [Course + Interviewing Intro / Project Audit](/Lessons/01-Intro-and-Audit) |
 |  2 |  Thu, June 3         | [Pretty Portfolio Projects, Please](/Lessons/02-ProjectUI.md) |
-|  3 |  Tue, June 8         | [Strategies for Behavioral Interviewing: Situational Awareness] |
+|  3 |  Tue, June 8         | [Strategies for Behavioral Interviewing: Situational Awareness](/Lessons/Lesson3.md) |
 |  4 |  Thu, June 10        | Technical Interviewing Activity 2 |
 |  5 |  Tue, June 15        | Behavioral Interview Drilling in Groups of 4 |
 |  6 |  Thu, June 17        | Technical Interviewing Activity 3 |
