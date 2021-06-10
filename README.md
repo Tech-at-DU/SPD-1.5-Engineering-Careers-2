@@ -41,10 +41,10 @@ By the end of the course, you will be able to ...
 |  1 |  Tue, June 1         | [Course + Interviewing Intro / Project Audit](/Lessons/01-Intro-and-Audit) |
 |  2 |  Thu, June 3         | [Pretty Portfolio Projects, Please](/Lessons/02-ProjectUI.md) |
 |  3 |  Tue, June 8         | [Strategies for Behavioral Interviewing: Situational Awareness](/Lessons/Lesson3.md) |
-|  4 |  Thu, June 10        | Technical Interviewing Activity 2 |
+|  4 |  Thu, June 10        | [PMs & Communication] |
 |  5 |  Tue, June 15        | Behavioral Interview Drilling in Groups of 4 |
-|  6 |  Thu, June 17        | Technical Interviewing Activity 3 |
-|  7 |  Tue, June 22        | [PMs & Communication]  |
+|  6 |  Thu, June 17        | Technical Interviewing Activity 2 |
+|  7 |  Tue, June 22        | Technical Interviewing Activity 3  |
 |  8 |  Thu, June 24        | Technical Interviewing Activity 4  |
 |  9 |  Tue, June 29        | Pitch Deck/YCombinator Application/Blog Post |
 | 10 |  Thu, July 1         | Technical Interviewing Activity 5  |
@@ -95,6 +95,8 @@ A common interview practice is to assign a take home project for the interviee t
 
 [Here are the requirements](https://docs.google.com/document/d/1F3LByW-A1pSpviBL4g3u9VMVuoUjxi1dUmOC_Sczg2U/edit) for the take home interview project.
 
+<!--
+Hiding this til I rewrite it with improvements to portfolio in mind
 ### MVP due June 15th (20% of final grade)
 MVP for iOS and Web products:
 - one functional and live feature (for iOS submit link to TestFlight or screencast of local functioning of app feature)
@@ -107,6 +109,7 @@ MVP for a DS project means:
 **Evaluation:**
 - All tracks execpt DS: Link to live functional app (100% credit) or repo with substantial code, functions, mostly fleshed out (50% credit)
 - DS Products: each of the three contents listed above represent 1/3 of the product credit
+-->
 
 ### [Final Project due July 15th](https://docs.google.com/document/d/1sjVil7LwH_VFKTnJtKSsaMHFgFSpl2yPGwY89kO4Klk/edit) (40% of final grade)
 
