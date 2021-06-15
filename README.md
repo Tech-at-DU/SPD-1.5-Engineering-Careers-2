@@ -42,7 +42,7 @@ By the end of the course, you will be able to ...
 |  2 |  Thu, June 3         | [Pretty Portfolio Projects, Please](/Lessons/02-ProjectUI.md) |
 |  3 |  Tue, June 8         | [Strategies for Behavioral Interviewing: Situational Awareness](/Lessons/Lesson3.md) |
 |  4 |  Thu, June 10        | [PMs & Communication] |
-|  5 |  Tue, June 15        | Behavioral Interview Drilling in Groups of 4 |
+|  5 |  Tue, June 15        | [Themes in Software Craftsmanship](https://docs.google.com/presentation/d/1ERErlV1z4AhkvWi6vvFYaaZ3YKAzS2WphQDRR0dQgR0/)|
 |  6 |  Thu, June 17        | Technical Interviewing Activity 2 |
 |  7 |  Tue, June 22        | Technical Interviewing Activity 3  |
 |  8 |  Thu, June 24        | Technical Interviewing Activity 4  |
