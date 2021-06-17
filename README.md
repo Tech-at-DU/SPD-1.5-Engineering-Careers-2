@@ -43,7 +43,7 @@ By the end of the course, you will be able to ...
 |  3 |  Tue, June 8         | [Strategies for Behavioral Interviewing: Situational Awareness](/Lessons/Lesson3.md) |
 |  4 |  Thu, June 10        | [PMs & Communication] |
 |  5 |  Tue, June 15        | [Themes in Software Craftsmanship](https://docs.google.com/presentation/d/1ERErlV1z4AhkvWi6vvFYaaZ3YKAzS2WphQDRR0dQgR0/)|
-|  6 |  Thu, June 17        | Technical Interviewing Activity 2 |
+|  6 |  Thu, June 17        | [README Please!](/Lessons/04-Software-Quality.md) |
 |  7 |  Tue, June 22        | Technical Interviewing Activity 3  |
 |  8 |  Thu, June 24        | Technical Interviewing Activity 4  |
 |  9 |  Tue, June 29        | Pitch Deck/YCombinator Application/Blog Post |
