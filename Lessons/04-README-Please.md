@@ -24,8 +24,9 @@ By the end of this class, you should be able to...
 
 **Why should we learn this?**
 - Constructive feedback is an artform and practiced skill! The more you use it, the more you'll recieve in return. More feedback = better products (usually)...
-- when approaching technical engineering challenges, solving a straightforward theoretical question before an applied question helps by drawing paralles between the two.
-- nothing cements learning better than explaining to your peers--expect to have discussions with your team mates on a regular basis.
+- A great README helps ensure adoption. Nobody will use a product if they don't know how to use it.
+
+
 
 ## 📚 [30m] Student-to-Student Review 
 
