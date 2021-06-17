@@ -34,7 +34,7 @@ By the end of the course, you will be able to ...
 
 **Course Dates:** Tuesday, June 1 – Thursday, July 15, 2021 (7 weeks)
 
-**Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (14 class sessions)
+**Class Times:** Tuesday, Thursday at 9:30am–12:15pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
