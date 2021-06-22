@@ -129,6 +129,11 @@ Here's a loose technical example:
 - I realized that I can implement scalable practices earlier in development using this technology/trick
 - After going through this pain, I hope others can avoid my mistake by developing better foresight and building products according to use estimations
 
+**What to turn in:**
+- create a document with a sharable link (a new google doc, a link to a post you made in your production blog, etc.)
+- write somewhere between 100 to 300 words
+- - This can be in a paragraph format or bullet point list that follows the examples if that's easier for you. The ultimate goal is for you to do some reflection, understand the value in creating short form articles, and ideally identify a way for this to integrate into your day-to-day workflow so you continue practicing it.
+
 Turn in a share link to the Blog Workshop assignment on Gradescope.
 
 ## 💪 Q&A + Wrap Up 
