@@ -88,6 +88,7 @@ Have somebody in your group create a blank Google Document and get to work on a 
 - UX improvements
 - and any additional ideas you have...
 
+Each person should turn in the proposal document's share link in the MakeVoip Gradescope assignment.
 
 ## 🛏️ [10m] Break
 
@@ -106,6 +107,8 @@ Good engineers review code, but they also review themselves.
 Blogs provide the oppurtunity for on-brand self-reflection (a win-win)!
 
 ## 🚜 [60m] Blog Workshop  
+
+Open up your sharable document editor of choice (Google Docs is an easy choice).
 
 Consider the following two prompts:
 1. Reflect on the ramifications of creating the portfolio project used in the portfolio audit. How has having to improve it made you wish you approached initial project scoping? Has it changed your understanding of what makes a good project and how will your next project improve because of it?
@@ -128,6 +131,8 @@ Here's a loose technical example:
 - After considering the tradeoffs of each framework/service, I implemented XXX by doing YYY (with code snippets)
 - I realized that I can implement scalable practices earlier in development using this technology/trick
 - After going through this pain, I hope others can avoid my mistake by developing better foresight and building products according to use estimations
+
+Turn in a share link to the Blog Workshop assignment on Gradescope.
 
 ## 💪 Q&A + Wrap Up 
 
