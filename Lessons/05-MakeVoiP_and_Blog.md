@@ -100,7 +100,7 @@ Blogs have become an ambiguous medium. Typically, they serve one of two major pu
 
 Let's take a look at a pair of respective examples:
 - Dan Morse has [some great introspective/informative Medium posts to check out](https://danielmorse.medium.com)
-- Jay Lowe was recently [featured in a data science blog](https://arxiv.org/abs/2105.01882) and [the LA Tribunal](https://thelosangelestribune.com/2021/06/15/marine-plastic-detected-and-quantified-using-artificial-intelligence/).
+- Jay Lowe was recently [featured in a data science blog](https://insidebigdata.com/2021/06/17/ai-under-the-hood-object-detection-model-capable-of-identifying-floating-plastic-beneath-the-surface-of-the-ocean/) and [the LA Tribunal](https://thelosangelestribune.com/2021/06/15/marine-plastic-detected-and-quantified-using-artificial-intelligence/).
 
 Good engineers review code, but they also review themselves.
 
