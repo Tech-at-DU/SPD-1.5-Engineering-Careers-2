@@ -131,7 +131,7 @@ Here's a loose technical example:
 
 **What to turn in:**
 - create a document with a sharable link (a new google doc, a link to a post you made in your production blog, etc.)
-- write somewhere between 100 to 300 words
+- write at least 100 to 300 words (more is great!)
 - - This can be in a paragraph format or bullet point list that follows the examples if that's easier for you. The ultimate goal is for you to do some reflection, understand the value in creating short form articles, and ideally identify a way for this to integrate into your day-to-day workflow so you continue practicing it.
 
 Turn in a share link to the Blog Workshop assignment on Gradescope.
