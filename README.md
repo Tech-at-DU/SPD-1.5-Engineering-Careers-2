@@ -45,7 +45,7 @@ By the end of the course, you will be able to ...
 |  5 |  Tue, June 15        | [Themes in Software Craftsmanship](https://docs.google.com/presentation/d/1ERErlV1z4AhkvWi6vvFYaaZ3YKAzS2WphQDRR0dQgR0/)|
 |  6 |  Thu, June 17        | [README Please!](/Lessons/04-README-Please.md) |
 |  7 |  Tue, June 22        | [Identifying Oppurtunity + Information Dissemination](/Lessons/05-MakeVoiP_and_Blog.md)  |
-|  8 |  Thu, June 24        | Technical Interviewing Activity 4  |
+|  8 |  Thu, June 24        | [Writing a Ticket](/Lessons/06-tickets.md  |
 |  9 |  Tue, June 29        | Pitch Deck/YCombinator Application/Blog Post |
 | 10 |  Thu, July 1         | Technical Interviewing Activity 5  |
 | 11 |  Tue, July 6         | Pitches |
