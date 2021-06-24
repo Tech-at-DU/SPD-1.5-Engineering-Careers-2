@@ -9,6 +9,9 @@
 1. Apply the ROAM technique to risks in feature tickets
 
 ## Telephone activity
+
+Link to [online telephone game.](https://garticphone.com)
+
 (see slides) Students are asked to draw a picture from a spec - then write a spec from that feature, then draw picture, then spec, etc. The activity demonstrates how much miscommunication happens when you don't have clearly defined tickets and specs
 
 ## Bad Ticket Example
