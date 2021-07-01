@@ -33,24 +33,24 @@ Jump into team based breakout rooms and make documents that capture the followin
 - Feature Owners (everybody must own something!)
 - Product Timeline with Dates (research > requirements > UX + development > launch > analyize and pivot)  
 - Issue Tracking (Kanban board tools such as Trello, Asana, etc.)
-- A (painless product requirements doc)[https://www.uxpin.com/studio/blog/write-good-product-requirements-document/]
-- Start a repository and outline a (great README file)[https://github.com/Make-School-Courses/SPD-1.5-Engineering-Careers-2/blob/master/Lessons/04-README-Please.md]
+- A [painless product requirements doc](https://www.uxpin.com/studio/blog/write-good-product-requirements-document/)
+- Start a repository and outline a [great README file](https://github.com/Make-School-Courses/SPD-1.5-Engineering-Careers-2/blob/master/Lessons/04-README-Please.md)
 - Create an engineering ticket outline that will be used across the project
 
 
 ## 🗣️ [10m] Look at the Industry
 
-As a class, review the (original Dropbox YC application.)[https://www.ycombinator.com/apply/dropbox]
+As a class, review the [original Dropbox YC application.](https://www.ycombinator.com/apply/dropbox)
 
-Now let's look at (some legendary pitch decks.)[https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/#Facebook]
+Now let's look at [some legendary pitch decks.](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/#Facebook)
 
-Perhaps this (pitch deck tool can help you get started with forming a solid pitch.)[https://create.piktochart.com/presentation/editor/2163]
+Perhaps this [pitch deck tool can help you get started with forming a solid pitch.](https://create.piktochart.com/presentation/editor/2163)
 
 ## 🔥 [30m] Validate Thy Biz
 
 Time to get back together with your project groups!
 
-Review what (makes a great pitch deck and start working on yours!)[https://www.cooleygo.com/7-tips-building-perfect-pitch-deck/] 
+Review what [makes a great pitch deck and start working on yours!](https://www.cooleygo.com/7-tips-building-perfect-pitch-deck/)
 
 Next, **before you build anything substantial**, write a short 100-to-300 word blog post that summarizes the key points of your project and **share it around Make School!**
 
@@ -60,7 +60,7 @@ Start by sharing it in the #spd-jr and #random channels.
 
 Once you've posted your content, take some time to give feedback on another group's final project! You must generate value to receive value. 😉
 
-As you collect feedback that validates the project, (watch for falling rocks!)[https://docs.google.com/presentation/d/1ERErlV1z4AhkvWi6vvFYaaZ3YKAzS2WphQDRR0dQgR0/edit#slide=id.g56528dfe23_0_125]
+As you collect feedback that validates the project, [watch for falling rocks!](https://docs.google.com/presentation/d/1ERErlV1z4AhkvWi6vvFYaaZ3YKAzS2WphQDRR0dQgR0/edit#slide=id.g56528dfe23_0_125)
 
 Does any of the feedback warrant further investigation due to bad signals?
 
