@@ -47,7 +47,7 @@ By the end of the course, you will be able to ...
 |  7 |  Tue, June 22        | [Identifying Oppurtunity + Information Dissemination](/Lessons/05-MakeVoiP_and_Blog.md)  |
 |  8 |  Thu, June 24        | [Writing a Ticket](/Lessons/06-tickets.md)  |
 |  9 |  Tue, June 29        | Lab Day + 1:1 Check In w/ Instructor |
-| 10 |  Thu, July 1         | Technical Interviewing Activity 5  |
+| 10 |  Thu, July 1         | [Validate Thy Biz](/Lessons/Validate-Users.md)  |
 | 11 |  Tue, July 6         | Pitches |
 | 12 |  Thu, July 8         | Technical Interviewing Activity 6  |
 | 13 |  Tue, July 13        | [Lesson 13] |
