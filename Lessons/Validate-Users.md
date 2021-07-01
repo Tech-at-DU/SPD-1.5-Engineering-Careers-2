@@ -56,7 +56,7 @@ Next, **before you build anything substantial**, write a short 100-to-300 word b
 
 Use the pitch deck as a loose outline and capture the best selling points from your due diligence documents.
 
-Start by sharing it in the #spd-jr and #random channels.
+Start by sharing it in the #spd-jr.
 
 Once you've posted your content, take some time to give feedback on another group's final project! You must generate value to receive value. 😉
 
