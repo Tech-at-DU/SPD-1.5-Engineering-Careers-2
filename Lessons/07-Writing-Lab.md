@@ -9,9 +9,6 @@
 | 10 MIN    | 🛏️ BREAK                     |
 | - MIN    | 🚜 Work Time     |
 
-## 🔭 [05m] Class Overview
-- Review course syllabus and high level understand of SPD 1.5
-
 ## 🏆 [05m] Learning Objectives
 
 By the end of this class, you should be able to...
