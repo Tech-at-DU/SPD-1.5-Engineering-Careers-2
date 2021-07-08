@@ -49,7 +49,7 @@ By the end of the course, you will be able to ...
 |  9 |  Tue, June 29        | Lab Day + 1:1 Check In w/ Instructor |
 | 10 |  Thu, July 1         | [Validate Thy Biz](/Lessons/Validate-Users.md)  |
 | 11 |  Tue, July 6         | [Leadership Models + Warm Demander](https://docs.google.com/presentation/d/1Xs43CIsX56hMN3BBVR88zzaCvMqNT1mpFv_gH6z7_Wc/edit?usp=sharing) |
-| 12 |  Thu, July 8         | Technical Interviewing Activity 6  |
+| 12 |  Thu, July 8         | [Writing Time](/Lessons/07-Writing-Lab) + Lab Day  |
 | 13 |  Tue, July 13        | [Lesson 13] |
 | 14 |  Thu, July 15        | Final Exam/Presentations |
 
