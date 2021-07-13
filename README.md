@@ -50,7 +50,7 @@ By the end of the course, you will be able to ...
 | 10 |  Thu, July 1         | [Validate Thy Biz](/Lessons/Validate-Users.md)  |
 | 11 |  Tue, July 6         | [Leadership Models + Warm Demander](https://docs.google.com/presentation/d/1Xs43CIsX56hMN3BBVR88zzaCvMqNT1mpFv_gH6z7_Wc/edit?usp=sharing) |
 | 12 |  Thu, July 8         | [Writing Time](/Lessons/07-Writing-Lab.md) + Lab Day  |
-| 13 |  Tue, July 13        | [Lesson 13] |
+| 13 |  Tue, July 13        | [Shipping is a Superpower](https://docs.google.com/presentation/d/1xGRk9KF46ooy9F4SYfe_lfpbDKZzM26FEF06_b4kAA4/edit#slide=id.p) |
 | 14 |  Thu, July 15        | Final Exam/Presentations |
 
 [Building Trust]: https://docs.google.com/presentation/d/1yhri9SnNGcBZpaaALLVddFwLIfthsiJ8Uw8HBzcjJa4/edit?usp=sharing
